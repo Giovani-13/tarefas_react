@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server": "json-server --watch blob/main/package.json"
+    "server": "json-server --watch blob/main/data/db.json"
   },
   "eslintConfig": {
     "extends": [
